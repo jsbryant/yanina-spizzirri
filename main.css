@@ -42,6 +42,7 @@ footer {
 footer a {
 	padding-right: 40px;
 	color: #fff;
+	-webkit-text-shadow: 0px 2px 1px rgb(100, 149, 237, 0.5); /* Safari */
 	text-shadow: 0px 2px 1px rgb(100, 149, 237, 0.5);
 }
 

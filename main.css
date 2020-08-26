@@ -51,13 +51,3 @@ footer a {
 footer a:last-child {
 	padding-right: 0;
 }
-
-/* **************************** */
-/* **************************** */
-
-/* Media queries */
-@media only screen and (min-width: 1280px) {
-	main {
-		font-size: 230px;
-	}
-}
